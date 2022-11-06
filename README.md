@@ -31,4 +31,3 @@
    <p align="center">
   <a href="https://github.com/harmanjot2002/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=harmanjot2002&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
  </p> 
-
