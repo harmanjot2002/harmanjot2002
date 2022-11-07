@@ -15,7 +15,7 @@
 <h3 align="center">📊My Github Stats:</h3>
 
  <p align="center">
-  <a href="https://github.com/harmanjot2002/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmanjot2002&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/harmanjot2002/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmanjot2002&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> 
  </p> 
 
 <p align="center">
