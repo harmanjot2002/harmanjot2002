@@ -14,13 +14,22 @@
 <hr>
 <h3 align="center">📊My Github Stats:</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harmanjot2002&layout=compact&theme=radical)](https://github.com/harmanjot2002/github-readme-stats)
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=harmanjot2002&show_icons=true&theme=radical)
-
-<p align="left">
+<p align="center">
+    <a href="https://github.com/harmanjot2002/github-readme-streak-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmanjot2002&layout=compact&theme=radical"/>
+    </a>
+ </p> 
+ 
+<p align="center">
+    <a href="https://github.com/harmanjot2002/github-readme-streak-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=harmanjot2002&show_icons=true&theme=radical"/>
+    </a>
+ </p> 
+ 
+<p align="center">
     <a href="https://github.com/harmanjot2002/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=harmanjot2002&theme=radical"/>
     </a>
  </p> 
  
- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=harmanjot2002&theme=redical)](https://github.com/harmanjot2002/github-readme-activity-graph)
+ [![Harmanjot Kaur's github activity graph](https://activity-graph.herokuapp.com/graph?username=harmanjot2002&theme=redical)](https://github.com/harmanjot2002/github-readme-activity-graph)
