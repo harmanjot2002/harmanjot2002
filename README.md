@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harmanjot Kaur</h1>
 
-<h3 align="center">👩‍💻Currently studying:</h3> <p align="center">Chitkara University,2nd Year(CSE)</p>
+<h3 align="center">👩💻Currently studying:</h3> <p align="center">Chitkara University,2nd Year(CSE)</p>
 <hr>
-<h3 align="center">🙋‍♀️Connect with me:</h3>
+<h3 align="center">🙋♀️Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/harmanjot-kaur-12hk12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harmanjot-kaur-12hk12" height="30" width="40" /></a>
 <a href="https://instagram.com/harmankaur_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harmankaur_2002" height="30" width="40" /></a>
@@ -14,9 +14,8 @@
 <hr>
 <h3 align="center">📊My Github Stats:</h3>
 
- <p align="center">
-  <a href="https://github.com/harmanjot2002/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmanjot2002&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> 
- </p> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harmanjot2002&layout=compact&theme=radical)](https://github.com/harmanjot2002/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <p align="center">
     <a href="https://github.com/harmanjot2002/github-readme-streak-stats">
@@ -24,10 +23,8 @@
     </a>
  </p> 
  
- <p align="center">
-   <a href="https://github.com/harmanjot2002/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=harmanjot2002&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
- </p> 
+
     
    <p align="center">
   <a href="https://github.com/harmanjot2002/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=harmanjot2002&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
- </p> 
+ </p>
