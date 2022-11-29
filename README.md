@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harmanjot Kaur</h1>
 
-<h3 align="center">👩💻Currently studying:</h3> <p align="center">Chitkara University,2nd Year(CSE)</p>
+<h3 align="center">👩‍💻Currently studying:</h3> <p align="center">Chitkara University,2nd Year(CSE)</p>
 <hr>
-<h3 align="center">🙋♀️Connect with me:</h3>
+<h3 align="center">🙋Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/harmanjot-kaur-12hk12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harmanjot-kaur-12hk12" height="30" width="40" /></a>
 <a href="https://instagram.com/harmankaur_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harmankaur_2002" height="30" width="40" /></a>
