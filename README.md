@@ -15,7 +15,7 @@
 <h3 align="center">📊My Github Stats:</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harmanjot2002&layout=compact&theme=radical)](https://github.com/harmanjot2002/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=harmanjot2002&show_icons=true&theme=radical)
 
 <p align="center">
     <a href="https://github.com/harmanjot2002/github-readme-streak-stats">
