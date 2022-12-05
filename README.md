@@ -31,5 +31,4 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=harmanjot2002&theme=radical"/>
     </a>
  </p> 
- 
- [![Harmanjot Kaur's github activity graph](https://activity-graph.herokuapp.com/graph?username=harmanjot2002&theme=redical)](https://github.com/harmanjot2002/github-readme-activity-graph)
+
