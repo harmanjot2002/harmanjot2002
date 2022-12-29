@@ -16,7 +16,7 @@
 
 <p align="center">
     <a href="https://github.com/harmanjot2002/github-readme-streak-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmanjot2002&layout=compact&theme=radical"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmanjot2002&langs_count=18&layout=compact&theme=radical"/>
     </a>
  </p> 
  
