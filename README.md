@@ -20,16 +20,14 @@
 <h3 align="center">📊My Github Stats:</h3>
 
 <p align="center">
-    <a href="https://github.com/harmanjot2002/github-readme-streak-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmanjot2002&langs_count=18&layout=compact&theme=radical"/>
-    </a>
+    <a href="https://github.com/harmanjot2002/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmanjot2002&langs_count=18&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" /></a>
  </p> 
  
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/harmanjot2002/github-readme-streak-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=harmanjot2002&show_icons=true&theme=radical"/>
     </a>
- </p> 
+ </p>  -->
  
 <p align="center">
     <a href="https://github.com/harmanjot2002/github-readme-streak-stats">
