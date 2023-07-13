@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harmanjot Kaur</h1>
 
-<h3 align="center">👩‍💻Currently studying:</h3> <p align="center">Chitkara University,2nd Year(CSE)</p>
+<h3 align="center">👩‍💻Currently studying:</h3> <p align="center">Chitkara University,3rd Year(CSE)</p>
 <hr>
 
 <h3 align="center">🙋Connect with me:</h3>
