@@ -35,3 +35,4 @@
     </a>
  </p> 
 
+[![An image of @harmanjot2002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harmanjot2002)](https://holopin.io/@harmanjot2002)
