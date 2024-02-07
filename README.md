@@ -3,7 +3,7 @@
 <h3 align="center">👩‍💻A passionate Full Stack Developer from India</h3>
 <hr/>
 
-- 🔭 I’m currently working on **LMS-Learning Management System**
+- 🔭 I’m currently working on **CouchCraft**
 
 - 🌱 I’m currently learning **Android Development**
 
