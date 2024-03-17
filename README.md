@@ -3,9 +3,10 @@
 <h3 align="center">👩‍💻A passionate Full Stack Developer from India</h3>
 <hr/>
 
+/*
 - 🔭 I’m currently working on **CouchCraft**
-
-- 🌱 I’m currently learning **Android Development**
+*/
+- 🌱 I’m currently learning **iOS Development**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-react-alpha-indol.vercel.app/](https://portfolio-react-alpha-indol.vercel.app/)
 
