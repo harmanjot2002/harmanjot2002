@@ -6,7 +6,7 @@
 <!--
 - 🔭 I’m currently working on **CouchCraft**
 -->
-- 🌱 I’m currently learning **iOS Development**
+- 🌱 I’m currently learning **Devops**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-react-alpha-indol.vercel.app/](https://portfolio-react-alpha-indol.vercel.app/)
 
